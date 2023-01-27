@@ -1,0 +1,19 @@
+.main {
+    margin: 0% 10% 0% 10%;
+}
+
+.header{
+    background-color: black;
+    color: white;
+}
+
+.match{
+    width: 100%;
+    display: flex;
+    margin-top: 5%;
+}
+
+html{
+    background-color: black;
+    color: white;
+}
